@@ -1,0 +1,104 @@
+body{
+    background-image: linear-gradient(to right, blue, violet);
+    border-radius: 100px;
+}
+
+
+
+.ff{
+    background-color:white;
+    color: rgb(175, 19, 82);
+    width: 500px;
+    height: 700px;
+    margin-top: 100px;
+    text-align: center;
+    h1{
+        font-size: 60px;
+        text-align: center;
+        color: black;
+       margin-top: -35px;
+       margin-bottom: 100px;
+       font-style: oblique;
+    
+    }
+    button{
+background-image: linear-gradient(to right, blue, violet);
+        margin-top:20px;
+        margin-bottom:50px;
+        height: 50px;
+        width: 405px;
+        font-size: 25px;
+        margin-top: 186px
+    }
+
+}
+input{
+    border-top: none !important;
+    border-right: none !important;
+    border-left: none !important;
+    padding: 27px;
+
+}
+
+    
+
+
+    
+
+
+
+.input-btn-grp {
+    border-top: black;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin: auto;
+    
+
+}
+
+.input-grp {
+    display: flex;
+    border-top: black;
+    flex-direction: heih;
+    flex-direction: column;
+    min-height: 55px;
+    justify-content: space-between;
+    border-radius: 50px;
+}
+ 
+
+  
+        
+    
+    
+    .one{
+        margin-top: 235px;
+        font-size: 20px;
+        color: mediumblue;
+        font-stretch: semi-condensed;
+        font-style: inherit;
+        
+    }
+    #enter{
+        
+    text-align: left;
+    display: none;
+    color: red;
+    margin-right: 237px;
+    display: none;
+    
+    
+    
+
+
+    }
+    #pass{
+        text-align: left;
+        display: none
+        margin-right: 250px;
+        color: red;
+        display: none;
+    
+    }
